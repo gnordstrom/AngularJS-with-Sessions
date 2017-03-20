@@ -1,0 +1,19 @@
+{
+  "name": "directives",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "body-parser": "^1.16.0",
+    "cors": "^2.8.1",
+    "express": "^4.15.2",
+    "express-session": "^1.15.0"
+  }
+}
